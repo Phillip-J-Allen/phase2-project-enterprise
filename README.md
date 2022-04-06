@@ -77,6 +77,7 @@ The graded elements of the presentation are:
 * Presentation Content
 * Slide Style
 * Presentation Delivery
+* Data Communication
 
 See the Grading section for further explanation of these elements.
 
@@ -111,9 +112,8 @@ The graded elements for the Jupyter Notebook are:
 * Business Understanding
 * Data Understanding
 * Data Preparation
-* Data Analysis
-* Visualization
-* Code Quality
+* Authoring Jupyter Notebooks
+* Data Manipulation and Analysis with `pandas`
 
 See the Grading section for further explanation of these elements.
 
@@ -131,7 +131,6 @@ These items will be graded as Complete/Incomplete:
 4. Business Understanding
 5. Data Understanding
 6. Data Preparation
-7. Data Analysis
 
 #### 1. Presentation Content
 
