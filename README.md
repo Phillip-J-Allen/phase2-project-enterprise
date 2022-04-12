@@ -337,3 +337,22 @@ Uses `pandas` to prepare data, but makes significant errors
 Unable to prepare data using `pandas`
 
 > This includes projects that successfully answer the business questions, but do not use `pandas` (e.g. use only base Python, or use some other tool like R, Tableau, or Excel)
+
+## Getting Started
+
+Use the link at the bottom of this assignment to open the project folder in IllumiDesk. This folder contains:
+
+* `zippedData`: This is a directory containing all of the compressed data files you need for the project.
+  * Look in this directory to find the names of the files when you want to open them with `pandas`
+* `exploratory.ipynb`: This is the notebook where you should perform all of your data exploration.
+  * It's fine for this notebook to contain broken code or hard-to-read plots; think of it as your "scratch paper".
+  * We have included some starter code in this notebook, but make sure you look at all of the files in `zippedData`, not just the ones used in the starter code.
+  * Work in this notebook until you are ready to start assembling your final report notebook.
+* `final.ipynb`: This is the final report notebook.
+  * Once you have a finding (visualization + explanation) in `exploratory.ipynb` that you want to include in the final report notebook, copy those code and Markdown cells over to `final.ipynb`.
+  * You will need to include import statements in `final.ipynb` for any packages that you use (pandas, SQLite, Matplotlib, etc.)
+  * When you are ready to submit the notebook, make sure you restart the kernel and run all cells to make sure that everything runs in order. Then download the notebook as a PDF for submission.
+
+## Summary
+
+This project pulls together everything that you have learned so far. Let's do it!
